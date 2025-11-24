@@ -21,6 +21,7 @@ This is a Project I made using Python. It is an EMI Calculator that has a GUI (G
 
 Download: Save the emi_calculator.py file in a folder.
 Run it: Open your command prompt (cmd) or terminal, go to the folder, and type:
+
 python emi_calculator.py
 
 
